@@ -32,26 +32,6 @@ const toggleMenu = () => {
 
 <style>
 
-/* nav {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  padding: 2rem 0;
-  font-size: 1rem;
-}
-
-nav a {
-  color: var(--text-color);
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-nav a:hover {
-  color: var(--accent-color);
-} */
-
-
-
 nav {
   display: flex;
   /* justify-content: space-between; */
